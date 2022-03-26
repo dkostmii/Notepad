@@ -2,6 +2,8 @@
 
 Simple native Notepad app for Windows
 
+![Example screenshot of Notepad app](./img/screenshot.png)
+
 Goals:
 
 - [x] New, Open, Save File
